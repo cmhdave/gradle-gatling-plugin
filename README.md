@@ -1,13 +1,5 @@
-<h1 align="center"> Gradle + Gatling Plugin </h1> <br>
-<p align="center">
-  <a href="https://github.com/cmhdave/gradle-gatling-plugin">
-    <img alt="Gradle + Gatling" title="Gradle + Gatling" src="img/gradle-gatling.png" width="450">
-  </a>
-</p>
+# ⚠️ DEPRECATED - DO NOT USE This project has been superseded by [Original]([link](https://github.com/alphagov/gradle-gatling-plugin)). Please use that instead.
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.github.cmhdave/gradle-gatling-plugin.svg)](http://repo1.maven.org/maven2/com/github/cmhdave/gradle-gatling-plugin/1.3/) 
-
-![license MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 # Setup
 
